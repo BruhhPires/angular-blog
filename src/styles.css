@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;                  /* PADRÃO */
+  padding: 0;                 /* PADRÃO */
+  box-sizing: border-box;     /* PADRÃO */
+  background-color: #111111;
+  color: white;
+  font-family: 'segoe ui';
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
