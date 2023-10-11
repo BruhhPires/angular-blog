@@ -18,9 +18,13 @@
   margin-top: px;
 }
 
+.big-card__discription {
+  text-overflow: ellipsis;
+}
 
 .big-card__discription > p > a{
   color: gray;
+
 }
 
 .big-card__photo > img {
